@@ -1,0 +1,40 @@
+.cl{
+    color: red;
+}
+.fl{
+    float: right;
+}
+.fs-25{
+    font-size: 25px;
+}
+.clrgry{
+    color: gray;
+    text-decoration:none;
+}
+.brc{
+    background-color: #E9ECEF ;
+}
+.body{
+    border: 2px;
+    padding: 20px;
+    text-align: center;
+}
+.m{
+    color: hotpink;
+}
+.fs-100{
+    font-size: 100px;
+}
+.fs-35{
+    font-size: 35px;
+    
+}
+.p{
+    color: rgb(117, 80, 11);
+    text-decoration:none;
+}
+
+.td
+{
+    text-decoration:none;
+}
